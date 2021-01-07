@@ -1,0 +1,72 @@
+body 
+{
+	background-color: Bisque;
+}
+
+h1
+{
+	background-color: lightblue;
+	font-face: rockwell extra bold;
+	font-size: 100px
+	text-align: center;
+	color: black; 
+	border: inset;
+	border-color: linen;
+	border-radius: 60px;
+ padding: 10px 40px;
+text-shadow: 2px 2px 5px yellow;
+	
+}
+
+h2
+{
+	background-color: Slateblue;
+	font-family: "Sofia", sans-serif;;
+	font-size: 500px
+	text-align: center;
+	color: White; 
+	border-style: double;
+	border-color: Honeydew;
+	border-radius: 10px solid;
+	 padding: 25px 50px;
+text-shadow: 2px 2px 5px Red;
+	
+}
+
+
+p
+{
+	background-color: IndianRed;
+	font-size:  20px;
+	text-align: center;
+	color: Moccasin;
+	font-family: 'Courgette', cursive;
+	padding: 15px;
+
+img {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 150px;
+}
+
+a:alink, a:visited
+	{
+	background-color: #f44336;
+	color: white;
+	text-allign: center;
+	text-decoration: none;
+	display: inline-block;
+	border-radius: 25px;
+	padding: 15px;
+	}
+
+a:hover, a:active
+	{
+	background-color: red;
+	color: white;
+	}
+
+
+
+
